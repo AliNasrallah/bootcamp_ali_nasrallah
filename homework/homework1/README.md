@@ -14,19 +14,19 @@ The system will use historical stock price data to calculate expected return and
 
 ## Assumptions
 
-Stakeholders know which stocks they want to be in their portfolio
-Historical market data is useful and sufficient for predicting future stock behavior
+- Stakeholders know which stocks they want to be in their portfolio
+- Historical market data is useful and sufficient for predicting future stock behavior
 
 ## Possible Constraints
 
-Amount of available historical data
-Availability of data on certain stocks 
-Time constraints
+- Amount of available historical data
+- Availability of data on certain stocks 
+- Time constraints
 
 ## Possible Risks
 
-Insufficient computational resources for large portfolios
-The model may provide a suboptimal output due to innacurate estimation of metrics such as expected return, volatility, and risk
+- Insufficient computational resources for large portfolios
+- The model may provide a suboptimal output due to innacurate estimation of metrics such as expected return, volatility, and risk
 
 ## Lifecycle Mapping
 
