@@ -39,7 +39,7 @@ Define project scope and objective -> Problem Framing & Scoping (Stage 01) -> De
 
 - yfinance API stock price data
 
-## Paramrters
+## Parameters
 
 - Tickers: AAPL, GOOG, AMZN, MSFT, TSLA
 - Date Range: 2020-08-17 - 2025-08-17, daily frequency
